@@ -2,9 +2,7 @@
 Group 3 for Class 5002: 
 
 Zach Wei 
-
 Nikhil Trivedi 
-
 Sherwin Vahidimowlavi 
 
  
