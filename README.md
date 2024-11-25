@@ -1,8 +1,8 @@
 # CS5002_FP_Group3
 Group 3 for Class 5002: 
 
-Zach Wei 
-Nikhil Trivedi 
+Zach Wei  |
+Nikhil Trivedi  |
 Sherwin Vahidimowlavi 
 
  
