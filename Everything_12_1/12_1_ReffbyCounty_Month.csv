@@ -1,0 +1,37 @@
+location,month,average_value
+Alameda,1,0.943336782
+Alameda,2,0.835663176
+Alameda,3,0.975259124
+Alameda,4,1.045406407
+Alameda,5,1.013102413
+Alameda,6,1.055832241
+Alameda,7,1.079830345
+Alameda,8,0.976783788
+Alameda,9,0.899664562
+Alameda,10,0.968001973
+Alameda,11,1.058722834
+Alameda,12,1.145047133
+San Francisco,1,0.926379487
+San Francisco,2,0.841037095
+San Francisco,3,1.081849673
+San Francisco,4,1.005189986
+San Francisco,5,0.997617875
+San Francisco,6,1.048382983
+San Francisco,7,1.102452132
+San Francisco,8,0.948673312
+San Francisco,9,0.912537957
+San Francisco,10,0.973958513
+San Francisco,11,1.055202564
+San Francisco,12,1.144736108
+Santa Clara,1,0.929599821
+Santa Clara,2,0.82405543
+Santa Clara,3,0.95377718
+Santa Clara,4,0.960377952
+Santa Clara,5,0.989725098
+Santa Clara,6,1.052953293
+Santa Clara,7,1.090776299
+Santa Clara,8,0.978822056
+Santa Clara,9,0.909278783
+Santa Clara,10,0.983060793
+Santa Clara,11,1.077086375
+Santa Clara,12,1.130076968
